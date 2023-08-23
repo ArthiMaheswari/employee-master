@@ -2,9 +2,10 @@
 ![image](https://github.com/ArthiMaheswari/employee-master/assets/47021076/9037093f-6409-40ef-831d-79d2371098d9)
 
 ## Functionality
--Add Employee 
--View Employee
--Edit Employee 
+- Add Employee 
+- View Employee
+- Edit Employee
+- Search Employee
 ## Project setup
 ```
 npm install
